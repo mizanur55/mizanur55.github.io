@@ -20,7 +20,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   #- {file: "README.md"}
   - {title: "CV", url: "https://github.com/mizanur55/mizanur55.github.io/raw/master/mizanur.pdf"}
   - {title: "Data Science", file: "data_science.md"}
-  - {title: "Statistics", file: "test"}
+  - {title: "Statistics", file: "2022-03-03-About me.md"}
   - {title: "Finance", file: "finance.md"}
 
   
