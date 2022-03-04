@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "data_science"
+title: "Data Science"
 ---
 
 {% if site.show_excerpts %}
