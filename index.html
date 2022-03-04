@@ -1,10 +1,44 @@
----
-layout: default
-title: "Home"
----
-
-{% if site.show_excerpts %}
-  {% include home.html %}
-{% else %}
-  {% include archive.html title="Posts" %}
-{% endif %}
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>Aspen Underwood</title>
+    <link rel="stylesheet" href="main.css" type="text/css" media="screen" title="no title" charset="utf-8">
+  </head>
+  <body>
+    <div class="main">
+      <nav>
+        <span class="logo"><a href="index.html"><h1>Aspen Underwood</h1></a></span>
+        <span class="links">
+          <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="static/Aspen_Underwood_CV.pdf">CV</a></li>
+            <li><a href="research.html">Research</a></li>
+          </ul>
+        </span>
+      </nav>
+      <div class="page">
+        <div>
+          <img src="static/aspen.jpg" id="aspenphoto" alt="Aspen Underwood"/>
+          <div class="contact">
+            <div class="contact-email">
+              <p>Email: <a href="mailto:afryber@g.clemson.edu" target="_blank">afryber@g.clemson.edu</a></p>
+            </div>
+            <div class="contact-phone">
+              <p>Phone: 719-214-4671</p>
+              <p> John E. Walker Department of Economics, Clemson University </p>
+            </div>
+          </div>
+      </div>
+        <article class="">
+          <p>I am a job market PhD candidate at the John E. Walker Department of Economics at Clemson University and an NBER Pre-Doctoral Fellow in Energy and Economics. My research interests are in industrial organization, energy economics, and environmental economics, and my focus is on electric vehicle charging stations. My current work explores the effects of electric vehicle station characteristics and price on driver charging demand and spatial competition between charging stations. I am interested 
+in the governmental and corporate policy implications electric vehicle charging demand and competition may have on the future of the electric vehicle market through better a understanding of how and where stations provide the greatest value to drivers. Outside EVs, I am interested in the study of industry demand and competition more broadly for new technologies and energy.  
+ </p>
+          
+        </article>
+      </div>
+        
+    </div>
+  </body>
+</html>

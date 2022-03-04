@@ -1,0 +1,80 @@
+/* import a font from google fonts https://fonts.google.com */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;0,500;0,900;1,400;1,500;1,900&display=swap');
+
+/*the global container*/
+body {
+  display: flex;
+  justify-content: center;
+  font-family: 'Roboto', sans-serif; /* set the font face here*/
+}
+
+.main {
+  max-width: min(98vw, 1024px);
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.page  p {
+  line-height: 1.4em;
+}
+
+/*navigation (top) bar*/
+nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #522D80;
+  padding: 1em;
+  color: white;
+  font-size: 1rem;
+  border-color: #F56600;
+  border-bottom-width: 1rem;
+  border-bottom-style: solid;
+}
+.links > ul {
+  display: flex;
+  align-items: center;
+  list-style: none;
+  gap: 1em;
+}
+nav a {
+  color: inherit;
+  text-decoration: none;
+}
+
+/* "article body" stuff*/
+.page {
+  display: flex;
+  flex-direction: row-reverse;
+}
+
+.page a {
+  color:  #522D80;
+  font-weight: bold;
+}
+
+#aspenphoto {
+  max-width: 265px; /*picture width*/
+}
+
+/*magic for small screens*/
+@media only screen and (max-width: 500px) {
+  .page {
+    flex-direction: column;
+  }
+}
+/*magic for large screens*/
+@media only screen and (min-width: 501px) {
+  .main {
+    max-width: 100vw;
+    align-items: center;
+  }
+  nav {
+    width: 98vw;
+  }
+  .page {
+    max-width: min(98vw, 1024px);
+  }
+}
+
