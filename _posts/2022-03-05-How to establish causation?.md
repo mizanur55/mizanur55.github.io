@@ -1,5 +1,5 @@
 ---
-title:  "How to deploy a JupyterHub in the cloud for your department or lab"
+title:  "How to establish causation?"
 mathjax: true
 author: katie
 category: jupyter
