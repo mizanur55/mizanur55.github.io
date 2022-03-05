@@ -1,0 +1,33 @@
+title: "Anirudh Kaushal"
+author: "Anirudh Kaushal"
+description: "B.Tech CSE Student"
+permalink: /:title/
+lang: "en"
+excerpt_separator: "\n\n\n"
+date_format: "%B %d, %Y"
+
+# Layout
+
+show_social: true          # show site description and social links in the footer
+show_excerpts: false        # show article excerpts on the home page
+show_frame: false          # adds a gray frame to the site
+show_sidebar: true       # show a sidebar instead of the usual header
+
+# Menu
+
+navigation:
+  - {title: "About Me", url: "/", icon: user }
+  - {title: "Resume", url: "/Anirudh_Kaushal_Resume.pdf", icon: file}
+  - {title: "Blog", file: "blog.md", icon: paragraph}
+
+external:                  # see http://fontawesome.com/icons
+  - {title: Email, icon: envelope, url: "mailto:anirudhkushal30@gmail.com"}
+  - {title: Github, icon: github, url: "https://github.com/anirudhkaushal"}
+  - {title: LinkedIn, icon: linkedin, url: "https://www.linkedin.com/in/anirudhkaushal"}
+
+comments:
+#  disqus_shortname: ""    # see https://disqus.com/
+#  isso_domain: ""         # see https://posativ.org/isso/
+
+plugins:
+ - jekyll-feed
