@@ -1,6 +1,6 @@
-title: "Anirudh Kaushal"
-author: "Anirudh Kaushal"
-description: "B.Tech CSE Student"
+title: "Mizanur Rahman"
+author: "Mizanur Rahman"
+description: "Data Science - Statistics - Finance"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -21,9 +21,9 @@ navigation:
   - {title: "Blog", file: "blog.md", icon: paragraph}
 
 external:                  # see http://fontawesome.com/icons
-  - {title: Email, icon: envelope, url: "mailto:anirudhkushal30@gmail.com"}
-  - {title: Github, icon: github, url: "https://github.com/anirudhkaushal"}
-  - {title: LinkedIn, icon: linkedin, url: "https://www.linkedin.com/in/anirudhkaushal"}
+  - {title: Email, icon: envelope, url: "mailto:mizanur55@hotmail.com"}
+  - {title: Github, icon: github, url: "https://github.com/mizanur55"}
+  - {title: LinkedIn, icon: linkedin, url: "https://www.linkedin.com/in/mizanur-rahman-58a86b106/"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
