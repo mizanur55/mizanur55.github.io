@@ -2,7 +2,8 @@
 layout: page
 title: ""
 ---
-## ![Alt text](new-dp.jpg?raw=true "Title") this is to add your picture
+## you can add your picture below with picture name "new-dp"
+## ![Alt text](new-dp.jpg?raw=true "Title") 
 
 ## HELLO WORLD!
 My name is Mizanur Rahman.
