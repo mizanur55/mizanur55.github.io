@@ -18,7 +18,7 @@ show_sidebar: true       # show a sidebar instead of the usual header
 navigation:
   - {title: "About Me", url: "/", icon: user }
   - {title: "Resume", url: "/mizanur_cv.pdf", icon: file}
-  - {title: "Blog", file: "blog.md",icon: bars}
+  - {title: "Blog", file: "blog.md",icon: file}
 
 external:                  # see http://fontawesome.com/icons
   - {title: Email, icon: envelope, url: "mailto:mizanur55@hotmail.com"}
