@@ -11,12 +11,12 @@ date_format: "%B %d, %Y"
 show_social: true          # show site description and social links in the footer
 show_excerpts: false        # show article excerpts on the home page
 show_frame: false          # adds a gray frame to the site
-show_sidebar: true       # show a sidebar instead of the usual header
+show_sidebar: false       # show a sidebar instead of the usual header
 
 # Menu
 
 navigation:
-  - {title: "About Me", url: "/", icon: github} # icon: user
+  - {title: "About Me", url: "/" } # icon: user
   - {title: "Blog", file: "blog.md"}  # icon: food 
   - {title: "Resume", url: "/mizanur_cv.pdf"} # icon: file 
 
