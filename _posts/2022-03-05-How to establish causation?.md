@@ -1,11 +1,11 @@
 ---
 title:  "How to establish causation?"
 mathjax: true
-author: katie
+author: Mizanur Rahman
 category: jupyter
 ---
 
-## What causes what
+
 
 
 
