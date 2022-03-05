@@ -17,7 +17,7 @@ show_sidebar: true       # show a sidebar instead of the usual header
 
 navigation:
   - {title: "About Me", url: "/", icon: user }
-  - {title: "Blog", file: "blog.md",icon: heart }
+  - {title: "Blog", file: "blog.md",icon: "fd" }
   - {title: "Resume", url: "/mizanur_cv.pdf", icon: file }
 
 
