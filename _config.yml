@@ -1,4 +1,4 @@
-title: "Mizanur Rahman"
+## title: "Mizanur Rahman"
 ## author: "Mizanur Rahman"
 ## description: "Data Science \n Statistics \n Finance"
 permalink: /:title/
@@ -10,7 +10,7 @@ date_format: "%B %d, %Y"
 
 show_social: true          # show site description and social links in the footer
 show_excerpts: false        # show article excerpts on the home page
-show_frame: true          # adds a gray frame to the site
+show_frame: false          # adds a gray frame to the site
 show_sidebar: false       # show a sidebar instead of the usual header
 
 # Menu
