@@ -3,6 +3,8 @@ layout: page
 title: ""
 ---
 
+![Alt text](venn_diagram.jpg?raw=true "Title")
+
 ## Welcome to my personal blog
 
 Hi, My name is Mizanur Rahman. I am a currently a student, undertaking a Master's Degree
