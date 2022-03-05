@@ -17,7 +17,7 @@ show_sidebar: true       # show a sidebar instead of the usual header
 
 navigation:
   - {title: "About Me", url: "/", icon: user }
-  - {title: "Resume", url: "/Anirudh_Kaushal_Resume.pdf", icon: file}
+  - {title: "Resume", url: "/mizanur_cv.pdf", icon: file}
   - {title: "Blog", file: "blog.md", icon: paragraph}
 
 external:                  # see http://fontawesome.com/icons
