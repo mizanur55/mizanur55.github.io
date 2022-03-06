@@ -12,5 +12,5 @@ categories: media
 One of the most repeated statistical facts in modern times is “Correlation does not imply causation”. This could be understood by a classic example often given in statistical courses, In the US, the production of ice creams is correlated with number of Drowning deaths as shown by the figure below:
 
 
-![Alt text](http://codeskulptor-demos.commondatastorage.googleapis.com/GalaxyInvaders/back04.jpg)
+![Alt text](https://raw.githubusercontent.com/mizanur55/mizanur55.github.io/master/Ice_cream_and_drowning.jpg)
 
