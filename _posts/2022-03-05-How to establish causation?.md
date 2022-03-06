@@ -26,13 +26,9 @@ Given data about two variables, Correlation between the variables is relatively 
 
 In 2005, researchers wanted to see the relationship between police and crime in Washington DC area[[1]](#1). They wanted to answer the question “does more police cause less crime?”. To isolate the effect of “police” on “crime” the researchers found an event where there is an increased police presence for reasons not related to variations in crime. This event was days with high ‘Terror alert levels. Since Washington D.C is the capital, and it is susceptible to terrorist attacks. So, when the terror alert level goes up there are extra police present on many public places, importantly extra police presence on the streets in this case is not because of any variation in crime, it is caused by the threat of terrorism. So, then they asked the question “what happens to level of crime when there are police present for reasons unrelated to crime?”.
 
-[//]: # (the code below can be used for quotations)
-[//]: # (> The secret to creativity is knowing how to hide your sources.) 
-[//]: # (&mdash;<cite>[Albert Einstein][1]</cite>)
+The researchers looked at Daily data, rather than a longer time frame as longer time frame data is more prone to endogeneity since it is more likely that over a longer period, we would have explanatory variables that are correlated with error term, when this happens our coefficient estimates ($$ β_i $$) are less reliable because they are not a true representative of our true coefficients ($$ β_i $$). They also looked at one city(i.e. Washington DC), this reduces the effect of omitted variables. 
 
 
-[//]: # (how to reference: https://stackoverflow.com/questions/26587527/cite-a-paper-using-github-markdown-syntax)
-[//]: # (to add a reference in the essay simply use something like '[num][#num]' where the num is the number your want for ref)
 
 ## References
 <a id="1">[1]</a> 
@@ -40,3 +36,15 @@ Klick, J., & Tabarrok, A. (2005).
 Using terror alert levels to estimate the effect of police on crime. 
 The Journal of Law and Economics, 48(1), 267-279
   
+  
+
+
+[//]: # (NOTES)
+
+[//]: # (the code below can be used for quotations)
+[//]: # (> The secret to creativity is knowing how to hide your sources.) 
+[//]: # (&mdash;<cite>[Albert Einstein][1]</cite>)
+
+[//]: # (how to reference: https://stackoverflow.com/questions/26587527/cite-a-paper-using-github-markdown-syntax)
+[//]: # (to add a reference in the essay simply use something like '[num][#num]' where the num is the number your want for ref)
+
