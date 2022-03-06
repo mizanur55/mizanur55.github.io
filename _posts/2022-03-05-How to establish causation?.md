@@ -13,7 +13,7 @@ One of the most repeated statistical facts in modern times is “Correlation doe
 [//]: # (this image below will be centered)
 ![Alt text](https://raw.githubusercontent.com/mizanur55/mizanur55.github.io/master/_posts/Article_1_files/Ice_cream_and_drowning.jpg){:style="display:block; margin-left:auto; margin-right:auto"}
 
-*Fig 1: The correlation between Ice cream production and Drowning in United States*[[1]](#1){:style="display:block; margin-left:auto; margin-right:auto"}
+*Fig 1: The correlation between Ice cream production and Drowning in United States*[[1]](#1)
 
 Does this mean that an increase in Ice cream production cause more drowning? Should we stop producing ice creams to prevent drowning? Well, the answer fortunately is no. Even though these two things are correlated it does not mean they cause each other. So, to put it more simply, when the ice cream production goes up the number of people drowning also happens to increase at the same time but increase in ice cream production does not cause more drowning. It could be that there is a third variable that we have not considered that is responsible for this trend. Consider that in summer as the temperature goes up more people buy ice creams, so this increases the demand for ice creams thus ice cream production goes up. Also, during periods of high temperature more people take up swimming and therefore the likelihood of people drowning also increases. 
 
@@ -28,6 +28,8 @@ In 2005, two american researchers wanted to see the relationship between police 
 The researchers looked at Daily data, rather than a longer time frame as longer time frame data is more prone to endogeneity since it is more likely that over a longer period, we would have explanatory variables that are correlated with error term, when this happens our coefficient estimates $$ (\hat{β_i}) $$ are less reliable because they are not a true representative of our true coefficients $$ (β_i) $$. They also looked at one city(i.e. Washington DC), this reduces the effect of omitted variables. 
 
 ![Alt text](https://raw.githubusercontent.com/mizanur55/mizanur55.github.io/master/_posts/Article_1_files/Table_2.jpg){:style="display:block; margin-left:auto; margin-right:auto"}
+
+*Fig 2 - The dependent variable is the daily total number of crimes in D.C. This table shows the estimated coefficients and their standard errors (in parentheses). Column (1) refers to a model where the only predictor used is the High Alert dummy variable. Column (2) refers to a model with the High Alert dummy and midday ridership which controls for the use of the metro around midday.*
 
 In *Table 2, column (1)*, we can see that the dummy variable “High Alert” has an estimated coefficient of -7.316, this means that on the days that have High alert levels the total number of crimes decreases by 7.316 crimes on average $$ (±2.877) $$. the $$ R^2 $$ value is 0.14 which indicated that $$ 14\% $$ of variability in Daily total number of crimes is explained by High Alert days.
 
