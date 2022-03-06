@@ -9,4 +9,7 @@ category: jupyter
 One of the most repeated statistical facts in modern times is “Correlation does not imply causation”. This could be understood by a classic example often given in statistical courses, In the US, the production of ice creams is correlated with number of Drowning deaths as shown by the figure below:
 
 
-![Flower](Ice_cream_and_drowning.jpg)
+![fig1](Ice_cream_and_drowning.jpg) 
+Fig 1: The correlation between Ice cream production and Drowning in United States
+
+$$ e^{i\theta}=\cos(\theta)+i\sin(\theta) $$
