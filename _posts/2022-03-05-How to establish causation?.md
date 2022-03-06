@@ -2,7 +2,7 @@
 title:  "How to establish causation?"
 mathjax: true
 author: Mizanur Rahman
-category: jupyter
+category: Media
 ---
 
 ## introduction
