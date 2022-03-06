@@ -30,6 +30,8 @@ The researchers looked at Daily data, rather than a longer time frame as longer 
 
 ![Alt text](https://raw.githubusercontent.com/mizanur55/mizanur55.github.io/master/_posts/Table_2.jpg){:style="display:block; margin-left:auto; margin-right:auto"}
 
+In Table 2, column (1), we can see that the dummy variable “High Alert” has an estimated coefficient of -7.316, this means that on the days that have High alert levels the total number of crimes decreases by 7.316 crimes on average (±2.877). the $$ R^2 $$ value is 0.14 which indicated that 14% of variability in Daily total number of crimes is explained by High Alert days.
+
 ## References
 <a id="1">[1]</a> 
 Klick, J., & Tabarrok, A. (2005).
