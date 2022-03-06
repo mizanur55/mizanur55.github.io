@@ -8,7 +8,7 @@ categories: media
 
 
 
-## introduction
+## Introduction
 One of the most repeated statistical facts in modern times is “Correlation does not imply causation”. This could be understood by a classic example often given in statistical courses, In the US, the production of ice creams is correlated with number of Drowning deaths as shown by the figure below:
 
 [//]: # (this image below will be centered)
@@ -31,7 +31,7 @@ In 2005, researchers wanted to see the relationship between police and crime in 
 [//]: # (&mdash;<cite>[Albert Einstein][1]</cite>)
 
 
-[//]: #(how to reference: https://stackoverflow.com/questions/26587527/cite-a-paper-using-github-markdown-syntax)
+[//]: # (how to reference: https://stackoverflow.com/questions/26587527/cite-a-paper-using-github-markdown-syntax)
 
 ## References
 <a id="1">[1]</a> 
