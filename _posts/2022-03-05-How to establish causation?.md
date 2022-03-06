@@ -29,7 +29,7 @@ The researchers looked at Daily data, rather than a longer time frame as longer 
 
 ![Alt text](https://raw.githubusercontent.com/mizanur55/mizanur55.github.io/master/_posts/Article_1_files/Table_2.jpg){:style="display:block; margin-left:auto; margin-right:auto"}
 
-*Fig 2 - The dependent variable is the daily total number of crimes in D.C. This table shows the estimated coefficients and their standard errors (in parentheses). Column (1) refers to a model where the only predictor used is the High Alert dummy variable. Column (2) refers to a model with the High Alert dummy and midday ridership which controls for the use of the metro around midday.*
+*Fig 2 : The dependent variable is the daily total number of crimes in D.C. This table shows the estimated coefficients and their standard errors (in parentheses). Column (1) refers to a model where the only predictor used is the High Alert dummy variable. Column (2) refers to a model with the High Alert dummy and midday ridership which controls for the use of the metro around midday.*
 
 In *Table 2, column (1)*, we can see that the dummy variable “High Alert” has an estimated coefficient of -7.316, this means that on the days that have High alert levels the total number of crimes decreases by 7.316 crimes on average $$ (±2.877) $$. the $$ R^2 $$ value is 0.14 which indicated that $$ 14\% $$ of variability in Daily total number of crimes is explained by High Alert days.
 
