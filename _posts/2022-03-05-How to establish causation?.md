@@ -11,7 +11,7 @@ categories: media
 One of the most repeated statistical facts in modern times is “Correlation does not imply causation”. This could be understood by a classic example often given in statistical courses, In the US, the production of ice creams is correlated with number of Drowning deaths as shown by the figure below:
 
 [//]: # (this image below will be centered)
-![Alt text](https://raw.githubusercontent.com/mizanur55/mizanur55.github.io/master/_posts/Ice_cream_and_drowning.jpg){:style="display:block; margin-left:auto; margin-right:auto"}
+![Alt text](https://raw.githubusercontent.com/mizanur55/mizanur55.github.io/master/_posts/Article_1_files/Ice_cream_and_drowning.jpg){:style="display:block; margin-left:auto; margin-right:auto"}
 
 *Fig 1: The correlation between Ice cream production and Drowning in United States*[[1]](#1)
 
@@ -27,7 +27,7 @@ In 2005, two american researchers wanted to see the relationship between police 
 
 The researchers looked at Daily data, rather than a longer time frame as longer time frame data is more prone to endogeneity since it is more likely that over a longer period, we would have explanatory variables that are correlated with error term, when this happens our coefficient estimates $$ (\hat{β_i}) $$ are less reliable because they are not a true representative of our true coefficients $$ (β_i) $$. They also looked at one city(i.e. Washington DC), this reduces the effect of omitted variables. 
 
-![Alt text](https://raw.githubusercontent.com/mizanur55/mizanur55.github.io/master/_posts/Table_2.jpg){:style="display:block; margin-left:auto; margin-right:auto"}
+![Alt text](https://raw.githubusercontent.com/mizanur55/mizanur55.github.io/master/_posts/Article_1_files/Table_2.jpg){:style="display:block; margin-left:auto; margin-right:auto"}
 
 In *Table 2, column (1)*, we can see that the dummy variable “High Alert” has an estimated coefficient of -7.316, this means that on the days that have High alert levels the total number of crimes decreases by 7.316 crimes on average $$ (±2.877) $$. the $$ R^2 $$ value is 0.14 which indicated that $$ 14\% $$ of variability in Daily total number of crimes is explained by High Alert days.
 
