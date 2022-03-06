@@ -27,5 +27,5 @@ Given data about two variables, Correlation between the variables is relatively 
 In 2005, researchers wanted to see the relationship between police and crime in Washington DC area[1]. They wanted to answer the question “does more police cause less crime?”. To isolate the effect of “police” on “crime” the researchers found an event where there is an increased police presence for reasons not related to variations in crime. This event was days with high ‘Terror alert levels. Since Washington D.C is the capital, and it is susceptible to terrorist attacks. So, when the terror alert level goes up there are extra police present on many public places, importantly extra police presence on the streets in this case is not because of any variation in crime, it is caused by the threat of terrorism. So, then they asked the question “what happens to level of crime when there are police present for reasons unrelated to crime?”.
 
 
-The secret to creativity is knowing how to hide your sources. 
--- <cite>[Albert Einstein][1]</cite>
+> The secret to creativity is knowing how to hide your sources. 
+&mdash;<cite>[Albert Einstein][1]</cite>
