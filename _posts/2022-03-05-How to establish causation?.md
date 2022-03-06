@@ -1,10 +1,10 @@
 ---
 title:  "How to establish causation?"
 mathjax: true
-author: Mizanur Rahman
 layout: post
-category: media
+categories: media
 ---
+
 
 
 
