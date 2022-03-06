@@ -45,7 +45,7 @@ In this article, we saw how causation can be established, we also saw that we mu
 
 ## References
 <a id="1">[1]</a>
-https://twitter.com/dannagal/status/1244082688899919872?lang=en-GB
+https://www.facebook.com/harvardonline/posts/did-ice-cream-sales-lead-to-more-drowning-deaths-do-you-know-the-difference-betw/1304381069934934/
 
 <a id="2">[2]</a> 
 Klick, J., & Tabarrok, A. (2005).
