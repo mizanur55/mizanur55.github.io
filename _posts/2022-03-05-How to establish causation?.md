@@ -28,7 +28,7 @@ In 2005, researchers wanted to see the relationship between police and crime in 
 
 The researchers looked at Daily data, rather than a longer time frame as longer time frame data is more prone to endogeneity since it is more likely that over a longer period, we would have explanatory variables that are correlated with error term, when this happens our coefficient estimates $$ (β_i) $$ are less reliable because they are not a true representative of our true coefficients $$ (β_i) $$. They also looked at one city(i.e. Washington DC), this reduces the effect of omitted variables. 
 
-
+![Alt text](https://raw.githubusercontent.com/mizanur55/mizanur55.github.io/master/_posts/Table_2.jpg){:style="display:block; margin-left:auto; margin-right:auto"}
 
 ## References
 <a id="1">[1]</a> 
@@ -39,7 +39,7 @@ The Journal of Law and Economics, 48(1), 267-279
   
 
 
-[//]: # (NOTES)
+[//]: # (EXTRA - NOTES)
 
 [//]: # (the code below can be used for quotations)
 [//]: # (> The secret to creativity is knowing how to hide your sources.) 
