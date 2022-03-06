@@ -14,6 +14,3 @@ One of the most repeated statistical facts in modern times is “Correlation doe
 
 ![Alt text](Ice_cream_and_drowning.jpg?raw=true)
 
-
-Fig 1: The correlation between Ice cream production and Drowning in United States
-
