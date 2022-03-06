@@ -8,7 +8,7 @@ categories: media
 
 
 ## Introduction
-\small One of the most repeated statistical facts in modern times is “Correlation does not imply causation”. This could be understood by a classic example often given in statistical courses, In the US, the production of ice creams is correlated with number of Drowning deaths as shown by the figure below:
+One of the most repeated statistical facts in modern times is “Correlation does not imply causation”. This could be understood by a classic example often given in statistical courses, In the US, the production of ice creams is correlated with number of Drowning deaths as shown by the figure below:
 
 [//]: # (this image below will be centered)
 ![Alt text](https://raw.githubusercontent.com/mizanur55/mizanur55.github.io/master/_posts/Ice_cream_and_drowning.jpg){:style="display:block; margin-left:auto; margin-right:auto"}
@@ -51,15 +51,4 @@ https://www.facebook.com/harvardonline/posts/did-ice-cream-sales-lead-to-more-dr
 Klick, J., & Tabarrok, A. (2005).
 Using terror alert levels to estimate the effect of police on crime. 
 The Journal of Law and Economics, 48(1), 267-279
-  
- 
-
-
-[//]: # (EXTRA - NOTES)
-
-[//]: # (the code below can be used for quotations)
-[//]: # (> The secret to creativity is knowing how to hide your sources.) 
-[//]: # (&mdash;<cite>[Albert Einstein][1]</cite>)
-
-[//]: # (how to reference: https://stackoverflow.com/questions/26587527/cite-a-paper-using-github-markdown-syntax)
 
