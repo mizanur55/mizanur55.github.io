@@ -10,6 +10,7 @@ One of the most repeated statistical facts in modern times is “Correlation doe
 
 
 ![fig1](Ice_cream_and_drowning.jpg) 
+
 Fig 1: The correlation between Ice cream production and Drowning in United States
 
 $$ e^{i\theta}=\cos(\theta)+i\sin(\theta) $$
