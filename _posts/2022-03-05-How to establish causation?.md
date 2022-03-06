@@ -5,7 +5,7 @@ layout: post
 categories: media
 ---
 
-
+<span style="font-size:0.85em;">
 
 
 ## Introduction
@@ -43,7 +43,7 @@ The conclusion here is that from this research we can see that the number of pol
 
 In this article, we saw how causation can be established, we also saw that we must take special care when designing our method and may need to come up with uniquely creative way to study causation like in the example I gave in this article, because it can be very difficult to isolate the variables we are studying. With the field of statistics ever evolving, I think that the future in this area looks very interesting and I hope to share more in the future.  
 
-
+</span>
 
 ## References
 <a id="1">[1]</a> 
