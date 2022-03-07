@@ -34,7 +34,7 @@ The researchers looked at Daily data, rather than a longer time frame as longer 
 if we let $$ \beta_{0}= $$ Intercept, $$ x_{1}= $$ High Alert and our response variable $$ y= $$
 Daily total crime then we can the write the mathematical model of Table 2, column (1) as:
 
-$$ *y=\beta_{0}+\beta_{1} x_{1}+\epsilon* $$
+$$ y=\beta_{0}+\beta_{1} x_{1}+\epsilon $$
 
 Where $$ \epsilon $$ is the error term and $$ \beta_{1} $$ is the true coefficient of the variable $$ x_{1} $$. Table 2 shows the estimates of the coefficients, they are $$ \hat{\beta_{1}} $$(-7.316) And the estimation of the intercept $$ \hat{\beta_{0}} $$ is 0(since on days with no high alerts the decrease in crime is 0). Note that the $$ \hat{\beta_{0}} $$ and $$ \hat{\beta_{1}} $$ derived from the least squares estimation method are the best possible estimates of $$ \beta_{0} $$ and $$ \beta_{1} $$, when the errors $$ (\epsilon) $$ are independent and have the same variance. We can write our estimated regression (also known as 'Least Squares equation') line as:
 
@@ -47,7 +47,7 @@ Since the researchers were trying to isolate the effect of “police” has on �
 
 In column (2) of table 2 we observer that the researchers included logged midday ridership along with the High alert dummy variable. if we let $$ \beta_{0} =$$ Intercept, $$ x_{1} =$$ High Alert, $$ x_{2} =$$ midday ridership and our response variable $$ y =$$ Daily total crime then we can write our new model as follows:
 
-$$ y=\beta_{0}+\beta_{1} y_{1}+\beta_{2} \log\left(x_{2}\right)+\epsilon $$
+$$ y=\beta_{0}+\beta_{1} y_{1}+\beta_{2}\log\left(x_{2}\right)+\epsilon $$
 
 Where $$ \epsilon $$ is the error term and $$ \beta_{1} $$ and $$ \beta_{2} $$ are true coefficients of the variables $$ x_{1} $$ and $$ x_{2} $$ Table 2 column 2 shows the estimates of these coefficients, $$ \hat{\beta_{1}} $$ is -6.046 and $$ \hat{\beta_{2}} $$ is 17.341 and the estimation of the intercept is again 0. Again, assuming independence of the error terms we can write our Least squares equation as:
 
