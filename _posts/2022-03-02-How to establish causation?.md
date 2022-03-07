@@ -5,7 +5,11 @@ layout: post
 categories: media
 ---
 
-
+<style>
+body {
+  font-size: 200%;
+}
+</style>
 
 ## Introduction
 One of the most repeated statistical facts in modern times is “Correlation does not imply causation”. This could be understood by a classic example often given in statistical courses, In the US, the production of ice creams is correlated with number of Drowning deaths as shown by the figure below:
