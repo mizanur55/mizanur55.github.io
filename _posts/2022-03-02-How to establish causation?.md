@@ -31,7 +31,18 @@ The researchers looked at Daily data, rather than a longer time frame as longer 
 
 *Fig 2 : The dependent variable is the daily total number of crimes in D.C. This table shows the estimated coefficients and their standard errors (in parentheses). Column (1) refers to a model where the only predictor used is the High Alert dummy variable. Column (2) refers to a model with the High Alert dummy and midday ridership which controls for the use of the metro around midday.*
 
-In *Table 2, column (1)*, we can see that the dummy variable “High Alert” has an estimated coefficient of -7.316, this means that on the days that have High alert levels the total number of crimes decreases by 7.316 crimes on average $$ (±2.877) $$. the $$ R^2 $$ value is 0.14 which indicated that $$ 14\% $$ of variability in Daily total number of crimes is explained by High Alert days.
+
+if we let $$ \beta_{0}= $$ Intercept, $$ x_{1}= $$ High Alert and our response variable $$ y= $$
+Daily total crime then we can the write the mathematical model of Table 2, column (1) as:
+
+$$ y=\beta_{0}+\beta_{1} x_{1}+\epsilon $$
+
+Where $$ \epsilon $$ is the error term and $$ \beta_{1} $$ is the true coefficient of the variable $$ x_{1} $$. Table 2 shows the estimates of the coefficients, they are $$ \hat{\beta_{1}}(-7.316) $$ And the estimation of the intercept $$ \hat{\beta_{0}} $$ is 0(since on days with no high alerts the decrease in crime is 0). Note that the $$ \hat{\beta_{0}} $$ and $$ \hat{\beta_{1}} $$ derived from the least squares estimation method are the best possible estimates of $$ \beta_{0} $$ and $$ \beta_{1} $$, when the errors $$ (\epsilon) $$ are independent and have the same variance. We can write our estimated regression (also known as 'Least Squares equation') line as:
+
+$$ \hat{y}=-7.316 x_{1} $$
+
+Where, the $$ \hat{y} $$ is our predicted Daily crime. we can see that the dummy variable "High Alert" $$ \left(x_{1}\right) $$ has an estimated coefficient of $$ -7.316 $$, this means that on the days that have High alert levels the total number of crimes decreases by $$ 7.316 $$ crimes on average $$ (\pm 2.877) $$. from table 2 column 1 we can also see that the $$ R^{2} $$ value is $$ 0.14 $$ which indicated that $$ 14 \% $$ of variability in Daily total number of crimes is explained by High Alert days.
+
 
 Since the researchers were trying to isolate the effect of “police” has on “crime”, they wanted to consider another variable ‘Metro ridership’ and check whether it could affect crime significantly. The researchers needed to control for Metro ridership as this variable will tell them the number of people in public places(tourism), because if there are less people outside then there are less people on whom the crime can be perpetrated on (i.e. less victims) and this could be the reason which causes lower crime (instead of increased police presence). 
 
