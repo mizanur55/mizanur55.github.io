@@ -47,11 +47,11 @@ Since the researchers were trying to isolate the effect of “police” has on �
 
 In column (2) of table 2 we observer that the researchers included logged midday ridership along with the High alert dummy variable. if we let $$ \beta_{0} $$ = Intercept, $$ x_{1} =$$ High Alert, $$ x_{2} =$$ midday ridership and our response variable $$ y =$$ Daily total crime then we can write our new model as follows:
 
-<span style="font-size:0.90em;">$$ y=\beta_{0}+\beta_{1} y_{1}+\beta_{2} \log\left(x_{2}\right)+\epsilon $$</span>
+$$ y=\beta_{0}+\beta_{1} y_{1}+\beta_{2} \log\left(x_{2}\right)+\epsilon $$
 
 Where $$ \epsilon $$ is the error term and $$ \beta_{1} $$ and $$ \beta_{2} $$ are true coefficients of the variables $$ x_{1} $$ and $$ x_{2} $$ Table 2 column 2 shows the estimates of these coefficients, $$ \hat{\beta_{1}} $$ is -6.046 and $$ \hat{\beta_{2}} $$ is 17.341 and the estimation of the intercept is again 0. Again, assuming independence of the error terms we can write our Least squares equation as:
 
-$$ <span style="font-size:0.85em;">\hat{y} = -6.046x_{1} + 17.341\log\left(x_{2}\right)<span style="font-size:0.85em;"> $$
+$$ <span style="font-size:0.85em;">\hat{y} = -6.046x_{1} + 17.341\log\left(x_{2}\right)</span> $$
 
 Here $$ \hat{y} $$ is our predicted Daily crime total. This sample Linear regression line allows us to estimate Daily crime total, given input values for our variable $$ x_{1} $$ and $$ x_{2} $$.
 
