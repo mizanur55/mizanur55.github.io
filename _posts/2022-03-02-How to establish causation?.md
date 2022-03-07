@@ -48,13 +48,13 @@ Since the researchers were trying to isolate the effect of “police” has on �
 
 In column (2) of table 2 we observer that the researchers included logged midday ridership along with the High alert dummy variable. if we let $$ \beta_{0}= $$ Intercept, $$ x_{1}= $$ High Alert, $$ x_{2}= $$ midday ridership and our response variable $$ Y= $$ Daily total crime then we can write our new model as follows:
 
-$$ Y=\beta_{0}+\beta_{1} X_{1}+\beta_{2} \log \left(X_{2}\right)+\epsilon $$
+$$ y=\beta_{0}+\beta_{1} y_{1}+\beta_{2} \log \left(x_{2}\right)+\epsilon $$
 
-Where $$ \epsilon $$ is the error term and $$ \beta_{1} $$ and $$ \beta_{2} $$ are true coefficients of the variables $$ X_{1} $$ and $$ X_{2} $$ Table 2 column 2 shows the estimates of these coefficients, $$ \hat{\beta_{1}} $$ is $$ -6.046 $$ and $$ \hat{\beta_{2}} $$ is $$ 17.341 $$ And the estimation of the intercept is again 0 . Again, assuming independence of the error terms we can write our Least squares equation as:
+Where $$ \epsilon $$ is the error term and $$ \beta_{1} $$ and $$ \beta_{2} $$ are true coefficients of the variables $$ x_{1} $$ and $$ x_{2} $$ Table 2 column 2 shows the estimates of these coefficients, $$ \hat{\beta_{1}} $$ is $$ -6.046 $$ and $$ \hat{\beta_{2}} $$ is $$ 17.341 $$ And the estimation of the intercept is again 0 . Again, assuming independence of the error terms we can write our Least squares equation as:
 
-$$ \hat{Y}=-6.046 X_{1}+17.341 \log \left(X_{2}\right) $$
+$$ \hat{y}=-6.046 x_{1}+17.341 \log \left(x_{2}\right) $$
 
-Here $$ \hat{Y} $$ is our predicted Daily crime total. This sample Linear regression line allows us to estimate Daily crime total, given input values for our variable $$ X_{1} $$ and $$ X_{2} $$.
+Here $$ \hat{y} $$ is our predicted Daily crime total. This sample Linear regression line allows us to estimate Daily crime total, given input values for our variable $$ x_{1} $$ and $$ x_{2} $$.
 
 we observer that the researchers included logged midday ridership along with the High alert dummy variable, we can observe that now we have a smaller coefficient for High alert variable, looking at the estimated coefficients we can also say that a $$ 10\% $$ increase in midday ridership increases the daily total number of crimes in DC by 1.7 because <span style="font-size:0.85em;">$$ 17.341*log (1.10) = 1.7 $$</span>. This suggests that Metro ridership does have a small influence the daily total number of crimes. More simply, if terror threat level causes a decrease in Metro ridership by $$ x\% $$ then we expect the crime rate to decrease by <span style="font-size:0.85em;">$$ (17.341*log⁡(1+\frac{x}{100})) $$</span> all other variables being equal. Since, the daily total number of crimes increase of only 1.7 crimes per day for every $$ 10\% $$ increase in Metro ridership is quite small and this increase in not significant, Therefore, the researchers were able to show that they are not wrongly ascribing the crime rate fall due to reduction in metro ridership to “police” numbers. In other words, given their assumption that the metro ridership is a good estimate of tourism, we cannot say that changes in tourists affects daily crime significantly. 
 
