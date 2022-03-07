@@ -28,11 +28,11 @@ The researchers looked at Daily data, rather than a longer time frame as longer 
 
 ![Alt text](https://raw.githubusercontent.com/mizanur55/mizanur55.github.io/master/_posts/Article_1_files/Table_2.jpg){:style="display:block; margin-left:auto; margin-right:auto"}
 
-*Fig 2 : The dependent variable is the daily total number of crimes in D.C. This table shows the estimated coefficients and their standard errors (in parentheses). Column (1) refers to a model where the only predictor used is the High Alert dummy variable. Column (2) refers to a model with the High Alert dummy and midday ridership which controls for the use of the metro around midday.*
+*Fig 2 : The dependent variable is the daily total number of crimes in D.C. This table shows the estimated coefficients and their standard errors (in parentheses). Column(1) refers to a model where the only predictor used is the High Alert dummy variable. Column(2) refers to a model with the High Alert dummy and midday ridership which controls for the use of the metro around midday.*
 
 
 if we let $$ \beta_{0}= $$ Intercept, $$ x_{1}= $$ High Alert and our response variable $$ y= $$
-Daily total crime then we can the write the mathematical model of Table 2, column (1) as:
+Daily total crime then we can the write the mathematical model of Table 2, column(1) as:
 
 $$ y=\beta_{0}+\beta_{1} x_{1}+\epsilon $$
 
@@ -40,22 +40,22 @@ Where $$ \epsilon $$ is the error term and $$ \beta_{1} $$ is the true coefficie
 
 $$ \hat{y}=-7.316 x_{1} $$
 
-Where, the $$ \hat{y} $$ is our predicted Daily crime. we can see that the dummy variable "High Alert" $$ \left(x_{1}\right) $$ has an estimated coefficient of -7.316, this means that on the days that have High alert levels the total number of crimes decreases by 7.316 crimes on average($$ \pm $$ 2.877). from table 2 column 1 we can also see that the <span style="font-size:0.85em;">$$ R^2 $$</span> value is 0.14 which indicated that <span style="font-size:0.85em;">$$ 14\% $$</span> of variability in Daily total number of crimes is explained by High Alert days.
+Where, the $$ \hat{y} $$ is our predicted Daily crime. we can see that the dummy variable "High Alert" $$ \left(x_{1}\right) $$ has an estimated coefficient of -7.316, this means that on the days that have High alert levels the total number of crimes decreases by 7.316 crimes on average($$ \pm $$ 2.877). from table 2 column(1) we can also see that the <span style="font-size:0.85em;">$$ R^2 $$</span> value is 0.14 which indicated that <span style="font-size:0.85em;">$$ 14\% $$</span> of variability in Daily total number of crimes is explained by High Alert days.
 
 
 Since the researchers were trying to isolate the effect of “police” has on “crime”, they wanted to consider another variable ‘Metro ridership’ and check whether it could affect crime significantly. The researchers needed to control for Metro ridership as this variable will tell them the number of people in public places(tourism), because if there are less people outside then there are less people on whom the crime can be perpetrated on (i.e. less victims) and this could be the reason which causes lower crime (instead of increased police presence). 
 
-In column (2) of table 2 we observer that the researchers included logged midday ridership along with the High alert dummy variable. if we let $$ \beta_{0} =$$ Intercept, $$ x_{1} =$$ High Alert, $$ x_{2} =$$ midday ridership and our response variable $$ y =$$ Daily total crime then we can write our new model as follows:
+In column(2) of table 2 we observer that the researchers included logged midday ridership along with the High alert dummy variable. if we let $$ \beta_{0} =$$ Intercept, $$ x_{1} =$$ High Alert, $$ x_{2} =$$ midday ridership and our response variable $$ y =$$ Daily total crime then we can write our new model as follows:
 
 $$ y=\beta_{0}+\beta_{1} y_{1}+\beta_{2}\log\left(x_{2}\right)+\epsilon $$
 
-Where $$ \epsilon $$ is the error term and $$ \beta_{1} $$ and $$ \beta_{2} $$ are true coefficients of the variables $$ x_{1} $$ and $$ x_{2} $$ Table 2 column 2 shows the estimates of these coefficients, $$ \hat{\beta_{1}} $$ is -6.046 and $$ \hat{\beta_{2}} $$ is 17.341 and the estimation of the intercept is again 0. Again, assuming independence of the error terms we can write our Least squares equation as:
+Where $$ \epsilon $$ is the error term and $$ \beta_{1} $$ and $$ \beta_{2} $$ are true coefficients of the variables $$ x_{1} $$ and $$ x_{2} $$ Table 2 column(2) shows the estimates of these coefficients, $$ \hat{\beta_{1}} $$ is -6.046 and $$ \hat{\beta_{2}} $$ is 17.341 and the estimation of the intercept is again 0. Again, assuming independence of the error terms we can write our Least squares equation as:
 
 $$ \hat{y} = -6.046x_{1} + 17.341\log\left(x_{2}\right) $$
 
 Here $$ \hat{y} $$ is our predicted Daily crime total. This sample Linear regression line allows us to estimate Daily crime total, given input values for our variable $$ x_{1} $$ and $$ x_{2} $$.
 
-we observer that the researchers included logged midday ridership along with the High alert dummy variable, we can observe that now we have a smaller coefficient for High alert variable, looking at the estimated coefficients we can also say that a <span style="font-size:0.85em;">$$ 10\% $$</span>  increase in midday ridership increases the daily total number of crimes in DC by 1.7 because <span style="font-size:0.85em;">$$ (17.341*log (1.10)) $$</span>. This suggests that Metro ridership does have a small influence the daily total number of crimes. More simply, if terror threat level causes a decrease in Metro ridership by <span style="font-size:0.85em;">$$ x\% $$</span> then we expect the crime rate to decrease by <span style="font-size:0.85em;">$$ (17.341*log⁡(1+\frac{x}{100})) $$</span> all other variables being equal. Since, the daily total number of crimes increase of only 1.7 crimes per day for every <span style="font-size:0.85em;">$$ 10\% $$</span> increase in Metro ridership is quite small and this increase in not significant, Therefore, the researchers were able to show that they are not wrongly ascribing the crime rate fall due to reduction in metro ridership to “police” numbers. In other words, given their assumption that the metro ridership is a good estimate of tourism, we cannot say that changes in tourists affects daily crime significantly.
+we observer that the researchers included logged midday ridership along with the High alert dummy variable, we can observe that now we have a smaller coefficient for High alert variable, looking at the estimated coefficients we can also say that a <span style="font-size:0.85em;">$$ 10\% $$</span>  increase in midday ridership increases the daily total number of crimes in DC by 1.7. This suggests that Metro ridership does have a small influence the daily total number of crimes. More simply, if terror threat level causes a decrease in Metro ridership by <span style="font-size:0.85em;">$$ x\% $$</span> then we expect the crime rate to decrease by <span style="font-size:0.85em;">$$ (17.341*log⁡(1+\frac{x}{100})) $$</span> all other variables being equal. Since, the daily total number of crimes increase of only 1.7 crimes per day for every <span style="font-size:0.85em;">$$ 10\% $$</span> increase in Metro ridership is quite small and this increase in not significant, Therefore, the researchers were able to show that they are not wrongly ascribing the crime rate fall due to reduction in metro ridership to “police” numbers. In other words, given their assumption that the metro ridership is a good estimate of tourism, we cannot say that changes in tourists affects daily crime significantly.
 
 We can also see that the <span style="font-size:0.85em;">$$ R^2 $$</span> value has increased to 0.17 which indicated that <span style="font-size:0.85em;">$$ 17\% $$</span> of variability in Daily total number of crimes is now explained by High Alert days and log(midday ridership). This suggests that by including the midday ridership variable we improved the fit of the model and can explain a higher proportion of the variability. 
 
