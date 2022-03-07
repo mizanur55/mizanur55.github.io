@@ -25,7 +25,7 @@ Given data about two variables, Correlation between the variables is relatively 
 
 In 2005, two american researchers wanted to see the relationship between police and crime in Washington DC area[[2]](#2). They wanted to answer the question “does more police cause less crime?”. To isolate the effect of “police” on “crime” the researchers found an event where there is an increased police presence for reasons not related to variations in crime. This event was days with high ‘Terror alert levels. Since Washington D.C is the capital, and it is susceptible to terrorist attacks. So, when the terror alert level goes up there are extra police present on many public places, importantly extra police presence on the streets in this case is not because of any variation in crime, it is caused by the threat of terrorism. So, then they asked the question “what happens to level of crime when there are police present for reasons unrelated to crime?”.
 
-The researchers looked at Daily data, rather than a longer time frame as longer time frame data is more prone to endogeneity since it is more likely that over a longer period, we would have explanatory variables that are correlated with error term, when this happens our coefficient estimates $$ (\hat{β_i}) $$ are less reliable because they are not a true representative of our true coefficients $$ (β_i) $$. They also looked at one city(i.e. Washington DC), this reduces the effect of omitted variables. The table below shows the effect of police on crime as a regression table:
+The researchers looked at Daily data, rather than a longer time frame as longer time frame data is more prone to endogeneity since it is more likely that over a longer period, we would have explanatory variables that are correlated with error term, when this happens our coefficient estimates $$ (\hat{β_{i}}) $$ are less reliable because they are not a true representative of our true coefficients $$ (β_{i}) $$. They also looked at one city(i.e. Washington DC), this reduces the effect of omitted variables. The table below shows the effect of police on crime as a regression table:
 
 ![Alt text](https://raw.githubusercontent.com/mizanur55/mizanur55.github.io/master/_posts/Article_1_files/Table_2.jpg){:style="display:block; margin-left:auto; margin-right:auto"}
 
@@ -39,7 +39,7 @@ In column (2) of table 2 we observer that the researchers included logged midday
 
 $$ Y=\beta_{0}+\beta_{1} X_{1}+\beta_{2} \log \left(X_{2}\right)+\epsilon $$
 
-Where $$ \epsilon $$ is the error term and $$ \beta_{1} $$ and $$ \beta_{2} $$ are true coefficients of the variables $$ X_{1} $$ and $$ X_{2} $$ Table 2 column 2 shows the estimates of these coefficients, $$ \widehat{\beta_{1}} $$ is $$ -6.046 $$ and $$ \widehat{\beta_{2}} $$ is $$ 17.341 $$ And the estimation of the intercept is again 0 . Again, assuming independence of the error terms we can write our Least squares equation as:
+Where $$ \epsilon $$ is the error term and $$ \beta_{1} $$ and $$ \beta_{2} $$ are true coefficients of the variables $$ X_{1} $$ and $$ X_{2} $$ Table 2 column 2 shows the estimates of these coefficients, $$ \hat{\beta_{1}} $$ is $$ -6.046 $$ and $$ \hat{\beta_{2}} $$ is $$ 17.341 $$ And the estimation of the intercept is again 0 . Again, assuming independence of the error terms we can write our Least squares equation as:
 
 $$ \hat{Y}=-6.046 X_{1}+17.341 \log \left(X_{2}\right) $$
 
