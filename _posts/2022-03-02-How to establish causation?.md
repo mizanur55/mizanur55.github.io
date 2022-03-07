@@ -45,7 +45,7 @@ Where, the $$ \hat{y} $$ is our predicted Daily crime. we can see that the dummy
 
 Since the researchers were trying to isolate the effect of “police” has on “crime”, they wanted to consider another variable ‘Metro ridership’ and check whether it could affect crime significantly. The researchers needed to control for Metro ridership as this variable will tell them the number of people in public places(tourism), because if there are less people outside then there are less people on whom the crime can be perpetrated on (i.e. less victims) and this could be the reason which causes lower crime (instead of increased police presence). 
 
-In column (2) of table 2 we observer that the researchers included logged midday ridership along with the High alert dummy variable. if we let $$ \beta_{0} $$ = Intercept, $$ x_{1} =$$ High Alert, $$ x_{2} =$$ midday ridership and our response variable $$ y =$$ Daily total crime then we can write our new model as follows:
+In column (2) of table 2 we observer that the researchers included logged midday ridership along with the High alert dummy variable. if we let $$ \beta_{0} =$$ Intercept, $$ x_{1} =$$ High Alert, $$ x_{2} =$$ midday ridership and our response variable $$ y =$$ Daily total crime then we can write our new model as follows:
 
 $$ y=\beta_{0}+\beta_{1} y_{1}+\beta_{2} \log\left(x_{2}\right)+\epsilon $$
 
