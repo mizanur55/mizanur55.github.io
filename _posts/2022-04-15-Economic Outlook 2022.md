@@ -28,4 +28,13 @@ One of the financial instruments that many investors prefer to trade is Exchange
 
 Under normal credit conditions, these ETFs are a great way of investing in the bond market, however, if we get a recession then this could be a major issue for the bond market because it could trigger a widespread downgrading of multiple companies. This is because if there is a recession then this could cause the income of a company to fall which means they will find it difficult to service their debts, this could mean that they could get downgraded by the rating agencies and since most Investment grade bonds in the market are BBB, a downgrading would mean these BBB companies will now have a junk/High yield status, this will widen their credit spreads even more which means they will have to pay a higher interest rate on their debt in the future. 
 
-![Alt text](https://raw.githubusercontent.com/mizanur55/mizanur55.github.io/master/_posts/Article_2_files/Downgrading_cycle.png){:style="display:block; margin-left:auto; margin-right:auto;width: 100%"}
+![Alt text](https://raw.githubusercontent.com/mizanur55/mizanur55.github.io/master/_posts/Article_2_files/Downgrading_cycle.png){:style="display:block; margin-left:auto; margin-right:auto;width: 60%"}
+
+A downgrading will also mean that all the Investment grade ETFs that hold these newly downgraded BBB bonds will be forced to sell them when they rebalance the portfolio because they are no longer Investment grade but junk bonds. This could create contagion in the bond market, and we could see a huge bond sell-off, there is also a potential for it to spill over to equity markets in particular small caps that have high leverage.
+
+# How likely is a recession?
+In March, the FED chair Jerome Powell said, "the probability of a recession within the next year is not particularly elevated". This is a reasonable statement as we know that aggregate demand in the economy is given by:
+
+$$ AD = C + I + G + (X - M) $$
+
+Where $$ AD $$ is the Aggregate demand, $$ C $$ is consumption, $$ I $$ is an investment, $$ G $$ is government spending and $$ X $$ is total exports and $$ M $$ is total imports. In the US, all these factors that contribute to aggregate demand are positive. Consumption is higher because we have some pent-up demand from Covid and easing of Covid restrictions, Government spending has increased because of Covid related quantitative easing, Investments have gone up as we saw a record rally in the stock market in the recent past. Imports and exports are also strong. This means that a recession due to a Demand fall in the economy is unlikely.
