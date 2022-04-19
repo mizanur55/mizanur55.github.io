@@ -1,3 +1,10 @@
+---
+title:  "Economic Outlook 2022"
+mathjax: true
+layout: post
+categories: media
+---
+
 # Introduction
 In the past few years, many people entered the equity market and saw incredible returns in their portfolios however,
 the market trend this year has been quite different. Currently, there is fear in the market about rising Inflation, 
