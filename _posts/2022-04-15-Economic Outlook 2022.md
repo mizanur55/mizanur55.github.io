@@ -19,4 +19,8 @@ Investors often look at credit spreads(credit risk + liquidity risk) to monitor 
 
 ![Alt text](https://raw.githubusercontent.com/mizanur55/mizanur55.github.io/master/_posts/Article_2_files/BBB_spread.png){:style="display:block; margin-left:auto; margin-right:auto;width: 50%"}
 
+In the above figure, we can clearly see a huge spike during the Covid bond sell-off period (shaded area). We can also see that in the first quarter of the year 2022, after the Russian invasion of Ukraine, a widening of credit spreads, this could be due to many factors such as inflation primarily fuelled by the energy crisis across the globe or fear of recession due to interest rate hike from central banks. 
+
+# A Possible Downgrading Problem
+One of the financial instruments that many investors prefer to trade is Exchange Traded Funds (ETFs). These are funds that are traded on exchanges like stocks. There are many ETFs that are Investment Grade ETFs, this is to say that they pool together only Investment grade bonds and if we look at the breakdown of most of the ETFs available in the market, they mostly have BBB bonds because this is reflective of the market where most of the investment-grade debt is BBB. Investors that go for these ETFs get a higher yield because of the high BBB weightage in the fund. Below is an example of one such ETF:
 
