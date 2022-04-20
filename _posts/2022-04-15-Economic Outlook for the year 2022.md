@@ -41,6 +41,8 @@ Under normal credit conditions, these ETFs are a great way of investing in the b
 
 ![Alt text](https://raw.githubusercontent.com/mizanur55/mizanur55.github.io/master/_posts/Article_2_files/Downgrading_cycle.png){:style="display:block; margin-left:auto; margin-right:auto;width: 60%"}
 
+*Fig 3: Downgrading Cycle*
+
 A downgrading will also mean that all the Investment grade ETFs that hold these newly downgraded BBB bonds will be forced to sell them when its time for portfolio rebalancing because they are no longer Investment grade but junk bonds. This could create contagion in the bond market, and we could see a huge bond sell-off, there is also a potential for it to spill over to equity markets in particular small caps that have high leverage.
 
 # How likely is a recession?
@@ -54,6 +56,8 @@ If we look at the latest market news, then we currently find many news articles 
 
 ![Alt text](https://raw.githubusercontent.com/mizanur55/mizanur55.github.io/master/_posts/Article_2_files/sahm_rule.png){:style="display:block; margin-left:auto; margin-right:auto;width: 100%"}
 
+*Fig 4: Sahm rule over time*[[4]](#4).
+
 From the plot above we can see that currently, the ‘Sahm rule’ does not indicate a beginning of a recession. The federal reserve bank of New York also has a model which takes the 10-year treasury yield and 3-month treasury yield and uses a normal distribution model to predict the probability of a recession 12 months ahead. Using the current treasury yields for 10-year and 3-months, the probability of a recession in the US is about 4%. Therefore, according to this model, it is very unlikely that we will have a recession in the next 12 months.
 
 # Conclusion
@@ -66,3 +70,5 @@ https://fred.stlouisfed.org/series/BAMLC0A4CBBB
 <a id="2">[2]</a>
 https://www.ishares.com/uk/professional/en/products/239451/ishares-13-year-credit-bond-etf?switchLocale=y&siteEntryPassthrough=true
 
+<a id="4">[4]</a>
+https://fred.stlouisfed.org/series/SAHMREALTIME
