@@ -56,7 +56,7 @@ If we look at the latest market news, then we currently find many news articles 
 
 ![Alt text](https://raw.githubusercontent.com/mizanur55/mizanur55.github.io/master/_posts/Article_2_files/sahm_rule.png){:style="display:block; margin-left:auto; margin-right:auto;width: 100%"}
 
-*Fig 4: Sahm rule over time*[[4]](#4).
+*Fig 4: Sahm rule over time*[[3]](#3).
 
 From the plot above we can see that currently, the ‘Sahm rule’ does not indicate a beginning of a recession. The federal reserve bank of New York also has a model which takes the 10-year treasury yield and 3-month treasury yield and uses a normal distribution model to predict the probability of a recession 12 months ahead. Using the current treasury yields for 10-year and 3-months, the probability of a recession in the US is about 4%. Therefore, according to this model, it is very unlikely that we will have a recession in the next 12 months.
 
@@ -70,5 +70,5 @@ https://fred.stlouisfed.org/series/BAMLC0A4CBBB
 <a id="2">[2]</a>
 https://www.ishares.com/uk/professional/en/products/239451/ishares-13-year-credit-bond-etf?switchLocale=y&siteEntryPassthrough=true
 
-<a id="4">[4]</a>
+<a id="3">[3]</a>
 https://fred.stlouisfed.org/series/SAHMREALTIME
