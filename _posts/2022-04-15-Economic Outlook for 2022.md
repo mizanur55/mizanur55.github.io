@@ -1,5 +1,5 @@
 ---
-title:  "Economic Outlook 2022"
+title:  "Economic Outlook for 2022"
 mathjax: true
 layout: post
 categories: media
