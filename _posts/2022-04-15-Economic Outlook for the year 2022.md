@@ -1,5 +1,5 @@
 ---
-title:  "Economic Outlook for 2022"
+title:  "Economic Outlook for the year 2022"
 mathjax: true
 layout: post
 categories: media
@@ -28,7 +28,7 @@ Investors often look at credit spreads(credit risk + liquidity risk) to monitor 
 
 In the above figure, we can clearly see a huge spike during the Covid bond sell-off period (shaded area). We can also see that in the first quarter of the year 2022, after the Russian invasion of Ukraine, a widening of credit spreads, this could be due to many factors such as inflation primarily fuelled by the energy crisis across the globe or fear of recession due to interest rate hike from central banks. 
 
-# A Possible Downgrading Problem
+# A Possible credit crisis through Downgrading cycle
 One of the financial instruments that many investors prefer to trade is Exchange Traded Funds (ETFs). These are funds that are traded on exchanges like stocks. There are many ETFs that are Investment Grade ETFs, this is to say that they pool together only Investment grade bonds and if we look at the breakdown of most of the ETFs available in the market, they mostly have BBB bonds because this is reflective of the market where most of the investment-grade debt is BBB. Investors that go for these ETFs get a higher yield because of the high BBB weightage in the fund. Below is an example of one such ETF:
 
 ![Alt text](https://raw.githubusercontent.com/mizanur55/mizanur55.github.io/master/_posts/Article_2_files/I_shares_etf_breakdown.png){:style="display:block; margin-left:auto; margin-right:auto;width: 100%"}
@@ -37,7 +37,7 @@ Under normal credit conditions, these ETFs are a great way of investing in the b
 
 ![Alt text](https://raw.githubusercontent.com/mizanur55/mizanur55.github.io/master/_posts/Article_2_files/Downgrading_cycle.png){:style="display:block; margin-left:auto; margin-right:auto;width: 60%"}
 
-A downgrading will also mean that all the Investment grade ETFs that hold these newly downgraded BBB bonds will be forced to sell them when they rebalance the portfolio because they are no longer Investment grade but junk bonds. This could create contagion in the bond market, and we could see a huge bond sell-off, there is also a potential for it to spill over to equity markets in particular small caps that have high leverage.
+A downgrading will also mean that all the Investment grade ETFs that hold these newly downgraded BBB bonds will be forced to sell them when its time for portfolio rebalancing because they are no longer Investment grade but junk bonds. This could create contagion in the bond market, and we could see a huge bond sell-off, there is also a potential for it to spill over to equity markets in particular small caps that have high leverage.
 
 # How likely is a recession?
 In March, the FED chair Jerome Powell said, "the probability of a recession within the next year is not particularly elevated". This is a reasonable statement as we know that aggregate demand in the economy is given by:
