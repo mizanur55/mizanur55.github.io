@@ -26,12 +26,16 @@ Investors often look at credit spreads(credit risk + liquidity risk) to monitor 
 
 ![Alt text](https://raw.githubusercontent.com/mizanur55/mizanur55.github.io/master/_posts/Article_2_files/BBB_spread.png){:style="display:block; margin-left:auto; margin-right:auto;width: 100%"}
 
+*Fig 1: BBB Credit spread over time*[[1]](#1).
+
 In the above figure, we can clearly see a huge spike during the Covid bond sell-off period (shaded area). We can also see that in the first quarter of the year 2022, after the Russian invasion of Ukraine, a widening of credit spreads, this could be due to many factors such as inflation primarily fuelled by the energy crisis across the globe or fear of recession due to interest rate hike from central banks. 
 
 # A Possible credit crisis through Downgrading cycle
 One of the financial instruments that many investors prefer to trade is Exchange Traded Funds (ETFs). These are funds that are traded on exchanges like stocks. There are many ETFs that are Investment Grade ETFs, this is to say that they pool together only Investment grade bonds and if we look at the breakdown of most of the ETFs available in the market, they mostly have BBB bonds because this is reflective of the market where most of the investment-grade debt is BBB. Investors that go for these ETFs get a higher yield because of the high BBB weightage in the fund. Below is an example of one such ETF:
 
 ![Alt text](https://raw.githubusercontent.com/mizanur55/mizanur55.github.io/master/_posts/Article_2_files/I_shares_etf_breakdown.png){:style="display:block; margin-left:auto; margin-right:auto;width: 100%"}
+
+*Fig 2: Credit quality rating Breakdown of an investment Grade ETF*[[2]](#2).
 
 Under normal credit conditions, these ETFs are a great way of investing in the bond market, however, if we get a recession then this could be a major issue for the bond market because it could trigger a widespread downgrading of multiple companies. This is because if there is a recession then this could cause the income of a company to fall which means they will find it difficult to service their debts, this could mean that they could get downgraded by the rating agencies and since most Investment grade bonds in the market are BBB, a downgrading would mean these BBB companies will now have a junk/High yield status, this will widen their credit spreads even more which means they will have to pay a higher interest rate on their debt in the future. 
 
@@ -54,3 +58,11 @@ From the plot above we can see that currently, the ‘Sahm rule’ does not indi
 
 # Conclusion
 In this article, we looked at the current market condition as well as what the federal reserve is doing to guide the market on a path that it desires. We also looked at some interesting developments in the credit market which could spread volatility and create contagion in other markets across the world. Finally, we went through some models that are used to predict recessions and we saw that we get different answers about the likelihood of recession with different models, So we have to be careful and should not take just one model like the yield curve inversion to work out the probability of a recession, the markets are currently volatile and unpredictable and we will have to wait and see how things such as the Russian-Ukraine conflict, FED Quantitative tightening, inflation and the economic recovery from Covid plays out to really judge the future economic outlook. 
+
+## References
+<a id="1">[1]</a>
+https://fred.stlouisfed.org/series/BAMLC0A4CBBB
+
+<a id="2">[2]</a>
+https://www.ishares.com/uk/professional/en/products/239451/ishares-13-year-credit-bond-etf?switchLocale=y&siteEntryPassthrough=true
+
