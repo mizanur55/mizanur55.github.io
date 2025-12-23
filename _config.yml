@@ -24,7 +24,7 @@ navigation:
 external:                  # see http://fontawesome.com/icons
   - {title: Email, icon: envelope, url: "mailto:mizanur55@hotmail.com"}
   - {title: Github, icon: github, url: "https://github.com/mizanur55"}
-  - {title: LinkedIn, icon: linkedin, url: "https://www.linkedin.com/in/mizanur-rahman-58a86b106/"}
+  - {title: LinkedIn, icon: linkedin, url: "https://www.linkedin.com/in/mizanur55/"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
